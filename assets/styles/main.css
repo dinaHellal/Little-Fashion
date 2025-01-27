@@ -127,3 +127,29 @@ header nav input{
     gap: 50px;
   }
 }
+.cool-fashion {
+  background-image: url(/assets/images/hero.webp);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+  color: var(--white);
+  padding: 80px;
+} 
+.cool-fashion h1{
+font-size: 60px;
+font-weight: bold;
+}
+.cool-fashion p{
+  line-height: 2;
+  padding: 30px 0;
+font-size: 20px;
+}
+.cool-fashion button{
+  padding: 15px 30px;
+  border: none;
+  outline: none;
+  background-color: var(--text-color);
+  color: var(--white);
+  border-radius: 40px;
+}
