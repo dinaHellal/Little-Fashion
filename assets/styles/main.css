@@ -128,7 +128,7 @@ header nav input{
   }
 }
 .cool-fashion {
-  background-image: url(/assets/images/hero.webp);
+  background-image: url(../images/hero.webp);
   background-position: center;
   background-size: cover;
   height: 100vh;
