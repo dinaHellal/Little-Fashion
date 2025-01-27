@@ -153,3 +153,8 @@ font-size: 20px;
   color: var(--white);
   border-radius: 40px;
 }
+@media (max-width:992px) {
+  .cool-fashion p{
+    color: var(--text-color);
+  }
+}
